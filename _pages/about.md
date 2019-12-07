@@ -4,7 +4,8 @@ title: About
 ---
 # About
 
-Mind of a software engineer, heart of a philosopher, explorer for truth through the scientific method
+Mind of a software engineer, heart of a philosopher, explorer of truth through the scientific method
+
 
 * Currently working full-time on fast.ai
 * Prospective contributer to the field of deep learning
@@ -40,7 +41,7 @@ MSc. Computer Science
 
 ## Interests and Dreams
 
-- Bipedal thru-hiking efficiency
+- Bipedal thru-hiking and pack-weight efficiency
 - Biomechanics and corrective exercises
 - All things true
 - Advancing humanity into a stellar civilization
