@@ -2,14 +2,53 @@
 layout: page
 title: About
 ---
+# About
 
-# Dong An 
+Mind of a software engineer, heart of a philosopher, explorer for truth through the scientific method. 
+
+* Currently working full-time on fast.ai
+* Prospective contributer to the field of deep learning
+
+BSc. MCD Biology
+MSc. Computer Science  
+
+## Favorite Languages
+
+- Python
+- Java
+- C++
+- C
+
+## Despised Languages
+
+- Javascript
+
+## Languages to explore
+
+- Rust
+- Go
+- Typescript
+- Julia
+- Swift
 
 
 ## Skills
-- deep learning
+
+- autodidact
+- touch-typist
+- transitional learner
+- synergist
 
 ## Interests
 
--Thru-hiking
--Mountaineering
+- All things true
+
+
+## Fields I would love to work in
+
+- Scientific computing
+- Agriculture
+- Astronomy
+- Biotechnology and genomics 
+
+
