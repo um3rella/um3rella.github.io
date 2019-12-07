@@ -4,7 +4,7 @@ title: About
 ---
 # About
 
-Mind of a software engineer, heart of a philosopher, explorer for truth through the scientific method. Weekend hiker, amateur mycologist
+Mind of a software engineer, heart of a philosopher, explorer for truth through the scientific method
 
 * Currently working full-time on fast.ai
 * Prospective contributer to the field of deep learning
@@ -23,7 +23,7 @@ MSc. Computer Science
 
 - Javascript
 
-## Languages to explore
+## Languages to Explore
 
 - Rust
 - Go
@@ -31,18 +31,17 @@ MSc. Computer Science
 - Julia
 - Swift
 
-
 ## Skills
 
-- autodidact
-- touch-typist
-- transitional learner
-- synergist
+- Autodidact
+- Touch-typist
+- Transitional learner
+- Synergist
 
 ## Interests and Dreams
 
-- Thru-hiking efficiency
-- Biomechanics and corrective exercise
+- Bipedal thru-hiking efficiency
+- Biomechanics and corrective exercises
 - All things true
 - Advancing humanity into a stellar civilization
 
