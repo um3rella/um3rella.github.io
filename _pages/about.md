@@ -4,7 +4,7 @@ title: About
 ---
 # About
 
-Mind of a software engineer, heart of a philosopher, explorer for truth through the scientific method. 
+Mind of a software engineer, heart of a philosopher, explorer for truth through the scientific method. Weekend hiker, amateur mycologist
 
 * Currently working full-time on fast.ai
 * Prospective contributer to the field of deep learning
@@ -39,16 +39,18 @@ MSc. Computer Science
 - transitional learner
 - synergist
 
-## Interests
+## Interests and Dreams
 
+- Thru-hiking efficiency
+- Biomechanics and corrective exercise
 - All things true
-
+- Advancing humanity into a stellar civilization
 
 ## Fields I would love to work in
 
 - Scientific computing
-- Agriculture
-- Astronomy
+- Agriculture automation
+- Space exploration 
 - Biotechnology and genomics 
 
 
