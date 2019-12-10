@@ -2,9 +2,9 @@
 layout: page
 title: About
 ---
-# About
+# Dong An
 
-Mind of a software engineer, heart of a philosopher, explorer of truth through the scientific method
+Mind of an engineer, heart of a philosopher, explorer of truth through the scientific method
 
 
 * Currently working full-time on fast.ai
@@ -19,10 +19,6 @@ MSc. Computer Science
 - Java
 - C++
 - C
-
-## Despised Languages
-
-- Javascript
 
 ## Languages to Explore
 
@@ -41,7 +37,7 @@ MSc. Computer Science
 
 ## Interests and Dreams
 
-- Bipedal thru-hiking and pack-weight efficiency
+- Thru-hiking and pack-weight efficiency
 - Biomechanics and corrective exercises
 - All things true
 - Advancing humanity into a stellar civilization
@@ -52,5 +48,6 @@ MSc. Computer Science
 - Agriculture automation
 - Space exploration 
 - Biotechnology and genomics 
-
+- Next-generation mapping
+- Terraforming technologies
 
