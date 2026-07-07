@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Adrian An — Data & Software Engineer</title>
+    <meta
+      name="description"
+      content="Adrian An is a data and software engineer specializing in HIPAA-compliant data platforms, cloud ETL/ELT pipelines on AWS and Snowflake, and agentic AI systems. View experience, projects, and get in touch."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Adrian An — Data & Software Engineer" />
+    <meta
+      property="og:description"
+      content="Data and software engineer specializing in HIPAA-compliant data platforms, cloud ETL pipelines, and agentic AI systems. View experience, projects, and get in touch."
+    />
+    <meta name="twitter:card" content="summary" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Apply saved/system theme before first paint to avoid a flash -->
+    <script>
+      ;(function () {
+        var stored = localStorage.getItem('theme')
+        var dark =
+          stored === 'dark' ||
+          (!stored && matchMedia('(prefers-color-scheme: dark)').matches)
+        if (dark) document.documentElement.classList.add('dark')
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
