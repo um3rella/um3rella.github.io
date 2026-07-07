@@ -35,9 +35,9 @@ export function Experience() {
                 {job.location}
               </p>
               <ul className="mt-3 space-y-2">
-                {job.highlights.map((highlight) => (
+                {job.highlights.map((highlight, i) => (
                   <li
-                    key={highlight.slice(0, 32)}
+                    key={i}
                     className="flex gap-2 text-sm leading-relaxed text-slate-600 dark:text-slate-400"
                   >
                     <span

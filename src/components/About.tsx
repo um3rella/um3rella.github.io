@@ -12,8 +12,8 @@ export function About() {
       <div className="grid gap-10 md:grid-cols-[2fr_1fr]">
         <Reveal delay={0.1}>
           <div className="space-y-4 text-base leading-relaxed text-slate-600 dark:text-slate-400">
-            {profile.bio.map((paragraph) => (
-              <p key={paragraph.slice(0, 32)}>{paragraph}</p>
+            {profile.bio.map((paragraph, i) => (
+              <p key={i}>{paragraph}</p>
             ))}
           </div>
         </Reveal>
