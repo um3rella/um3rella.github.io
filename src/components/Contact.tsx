@@ -1,4 +1,4 @@
-import { Mail } from 'lucide-react'
+import { Mail, Phone } from 'lucide-react'
 import { profile, socialLinks } from '../data/content'
 import { Reveal } from './Reveal'
 import { SectionHeading } from './SectionHeading'
@@ -26,6 +26,23 @@ export function Contact() {
             <Mail className="h-4 w-4" />
             Say Hello
           </a>
+
+          <p className="mt-6 flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm text-slate-600 dark:text-slate-400">
+            <a
+              href={`mailto:${profile.email}`}
+              className="inline-flex items-center gap-2 transition-colors hover:text-accent-600 dark:hover:text-accent-400"
+            >
+              <Mail className="h-4 w-4" aria-hidden />
+              {profile.email}
+            </a>
+            <a
+              href={`tel:${profile.phone.replace(/[^\d+]/g, '')}`}
+              className="inline-flex items-center gap-2 transition-colors hover:text-accent-600 dark:hover:text-accent-400"
+            >
+              <Phone className="h-4 w-4" aria-hidden />
+              {profile.phone}
+            </a>
+          </p>
 
           <div className="mt-8 flex items-center justify-center gap-1">
             {socialLinks.map((link) => (

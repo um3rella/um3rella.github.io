@@ -32,13 +32,13 @@ export const profile = {
   name: 'Adrian An',
   title: 'Data & Software Engineer',
   tagline:
-    'I build HIPAA-compliant data platforms, cloud ETL pipelines, and agentic AI systems — with 6+ years of experience turning complex compliance requirements into scalable, auditable engineering solutions.',
+    'I build HIPAA-compliant data platforms, cloud ETL pipelines, and agentic AI systems — with 10+ years of experience turning complex compliance requirements into scalable, auditable engineering solutions.',
   location: 'Sacramento, CA',
   email: 'adriandongan@gmail.com',
   phone: '(916) 396-3021',
   resumeUrl: '/resume.pdf',
   bio: [
-    `I'm a data and software engineer with over 6 years of experience building
+    `I'm a data and software engineer with over 10 years of experience building
      and modernizing HIPAA-compliant data platforms for the California
      Department of Developmental Services. I led the Department's data
      de-identification guidelines (DDG) program — developing policies,
@@ -53,7 +53,7 @@ export const profile = {
   ],
   quickFacts: [
     { label: 'Location', value: 'Sacramento, CA' },
-    { label: 'Focus', value: 'Data engineering, AI/ML systems, data governance' },
+    { label: 'Focus', value: 'Data Engineering, AI/ML Systems, Data Governance' },
     {
       label: 'Education',
       value: 'M.S. Computer Science, CSU Sacramento',

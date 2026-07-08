@@ -10,8 +10,14 @@ import { Skills } from './components/Skills'
 export default function App() {
   return (
     <>
+      <a
+        href="#main-content"
+        className="skip-link rounded-lg bg-accent-600 px-4 py-2 text-sm font-semibold text-white shadow-lg focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent-600"
+      >
+        Skip to content
+      </a>
       <Navbar />
-      <main>
+      <main id="main-content">
         <Hero />
         <About />
         <Skills />

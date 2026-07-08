@@ -54,7 +54,7 @@ export function Projects() {
                 {project.tech.map((tech) => (
                   <li
                     key={tech}
-                    className="font-mono text-xs text-slate-500 dark:text-slate-500"
+                    className="font-mono text-xs text-slate-600 dark:text-slate-400"
                   >
                     {tech}
                   </li>

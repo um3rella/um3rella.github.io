@@ -26,11 +26,11 @@ export function Experience() {
                     @ {job.company}
                   </span>
                 </h3>
-                <p className="font-mono text-xs text-slate-500 dark:text-slate-500">
+                <p className="font-mono text-xs text-slate-600 dark:text-slate-400">
                   {job.period}
                 </p>
               </div>
-              <p className="mt-1 flex items-center gap-1 text-xs text-slate-500 dark:text-slate-500">
+              <p className="mt-1 flex items-center gap-1 text-xs text-slate-600 dark:text-slate-400">
                 <MapPin className="h-3 w-3" />
                 {job.location}
               </p>
