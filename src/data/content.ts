@@ -29,7 +29,7 @@ export interface Project {
 }
 
 export const profile = {
-  name: 'Adrian An',
+  name: 'Dong (Adrian) An',
   title: 'Data & Software Engineer',
   tagline:
     'I build HIPAA-compliant data platforms, cloud ETL pipelines, and agentic AI systems — with 10+ years of experience turning complex compliance requirements into scalable, auditable engineering solutions.',

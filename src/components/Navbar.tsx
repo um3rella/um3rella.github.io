@@ -12,7 +12,9 @@ export function Navbar() {
   const active = useActiveSection(sectionIds)
 
   const initials = profile.name
-    .split(' ')
+    .replace(/\(.*?\)/g, '')
+    .split(/\s+/)
+    .filter(Boolean)
     .map((w) => w[0])
     .join('')
 
